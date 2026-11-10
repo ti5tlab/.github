@@ -1,4 +1,5 @@
-# TI5Robot 科技创新实验室
+
+<img width="1547" height="472" alt="logo3" src="https://github.com/user-attachments/assets/8302aa92-6344-4821-8662-0211df85cad1" />
 
 <p align="center">
   <strong>机器人 · 创新 · 开源</strong>
@@ -94,6 +95,4 @@
   机器人 · 创新 · 开源
   <br /><br />
   <a href="https://www.ti5robot.com/">www.ti5robot.com</a>
-  <br /><br />
-  <a href="https://github.com/ti5robot">English</a>
 </p>
