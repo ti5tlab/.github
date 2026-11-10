@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ti5robot/.github/blob/main/profile/README_zh-CN.md">简体中文</a> |
+  <a href="https://github.com/ti5robot/.github/blob/main/profile/README.zh-CN.md">简体中文</a> |
   <a href="https://www.ti5robot.com/">Official Website</a>
 </p>
 
