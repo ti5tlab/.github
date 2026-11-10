@@ -93,6 +93,5 @@ We aim to build an open, collaborative and sustainable robotics technology ecosy
   Robotics · Innovation · Open Source
   <br /><br />
   <a href="https://www.ti5robot.com/">www.ti5robot.com</a>
-  <br /><br />
-  <a href="https://github.com/ti5robot/.github/blob/main/profile/README.zh-CN.md">简体中文</a>
+
 </p>
