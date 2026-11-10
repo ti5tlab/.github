@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ti5robot">English</a> |
+  <a href="https://github.com/ti5tlab/.github/edit/main/profile/README.md">English</a> |
   <a href="https://www.ti5robot.com/">官方网站</a>
 </p>
 
