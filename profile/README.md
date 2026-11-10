@@ -1,4 +1,5 @@
-# TI5Robot Technology Innovation Lab
+
+<img width="1547" height="472" alt="logo3" src="https://github.com/user-attachments/assets/bdb6ee0b-0710-4de8-bc6f-95a1bb3c158c" />
 
 <p align="center">
   <strong>Robotics · Innovation · Open Source</strong>
